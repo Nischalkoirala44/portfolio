@@ -2,7 +2,7 @@ import React from 'react';
 
 const skills = [
   { name: "ReactJS", level: "Beginner" },
-  { name: "MongoDB", level: "Intermediat" },
+  { name: "MongoDB", level: "Intermediate" },
   { name: "JavaScript", level: "Beginner" },
   { name: "NextJS", level: "Beginner" },
   { name: "Tailwind CSS", level: "Intermediate" },
