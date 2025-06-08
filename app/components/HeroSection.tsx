@@ -22,7 +22,7 @@ const HeroSection = () => {
 
               <p className="text-gray-300 text-lg md:text-xl leading-relaxed max-w-lg">
                 Motivated frontend development student with a strong foundation in building responsive, user-friendly
-                web apps. Eager to learn React.js and grow into a skilled, impactful software engineer.
+                web apps. Eager to learn Next.js and grow into a skilled, impactful software engineer.
               </p>
             </div>
 
