@@ -1,11 +1,11 @@
 import React from 'react';
 
 const skills = [
-  { name: "HTML", level: "Expert" },
-  { name: "CSS", level: "Advanced" },
-  { name: "JavaScript", level: "Advanced" },
-  { name: "React", level: "Intermediate" },
-  { name: "Tailwind CSS", level: "Advanced" },
+  { name: "ReactJS", level: "Beginner" },
+  { name: "MongoDB", level: "Intermediat" },
+  { name: "JavaScript", level: "Beginner" },
+  { name: "NextJS", level: "Beginner" },
+  { name: "Tailwind CSS", level: "Intermediate" },
   { name: "Node.js", level: "Beginner" }
 ];
 
@@ -33,7 +33,7 @@ const getPercentage = (level: string): number => {
     case "Intermediate":
       return 60;
     case "Beginner":
-      return 40;
+      return 30;
     default:
       return 50;
   }
